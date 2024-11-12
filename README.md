@@ -1,0 +1,2 @@
+# new
+python basic lecture
